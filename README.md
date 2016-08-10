@@ -8,23 +8,23 @@ Don't miss the other [EggHead Courses](https://egghead.io)
 
 ## Episodes
 
-1. [Create local repos with git init](./1.Create_local_repos_with_git_init.md)
+1. [Create local repos with git init](./01.Create_local_repos_with_git_init.md)
 
-2. [Copy remote repos to local machines with git clone](./2.Copy_remote_repos_to_local_machines_with_git_clone.md)
+2. [Copy remote repos to local machines with git clone](./02.Copy_remote_repos_to_local_machines_with_git_clone.md)
 
-3. [Capture code history snapshots with git add commit push](./3.Capture_code_history_snapshots_with_git_add_commit_push.md)
+3. [Capture code history snapshots with git add commit push](./03.Capture_code_history_snapshots_with_git_add_commit_push.md)
 
-4. [Document repos with README files](./4.Document_repos_with_README_files.md)
+4. [Document repos with README files](./04.Document_repos_with_README_files.md)
 
-5. [Sync local and remotes repos with git pull](./5.Sync_local_and_remote_repos_with_git_pull.md)
+5. [Sync local and remotes repos with git pull](./05.Sync_local_and_remote_repos_with_git_pull.md)
 
-6. [Isolate feature development with git branch](./6.Isolate_feature_development_with_git_branch.md)
+6. [Isolate feature development with git branch](./06.Isolate_feature_development_with_git_branch.md)
 
-7. [Sync branches with git merge](./7.Sync_branches_with_git_merge.md)
+7. [Sync branches with git merge](./07.Sync_branches_with_git_merge.md)
 
-8. [Resolve merge conflicts with git status](./8.Resolve_merge_conflicts_with_git_status.md)
+8. [Resolve merge conflicts with git status](./08.Resolve_merge_conflicts_with_git_status.md)
 
-9. [Save uncommitted changes with git stash](./9.Save_uncommitted_changes_with_git_stash.md)
+9. [Save uncommitted changes with git stash](./09.Save_uncommitted_changes_with_git_stash.md)
 
 10. [Navigate git command pager output with Unix less commands](./10.Navigate_git_command_pager_output_with_Unix_less_commands.md)
 
