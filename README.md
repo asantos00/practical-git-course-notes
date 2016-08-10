@@ -22,6 +22,18 @@ Don't miss the other [EggHead Courses](https://egghead.io)
 
 7. [Sync branches with git merge](./7.Sync_branches_with_git_merge.md)
 
+8. [Resolve merge conflicts with git status](./8.Resolve_merge_conflicts_with_git_status.md)
+
+9. [Save uncommitted changes with git stash](./9.Save_uncommitted_changes_with_git_stash.md)
+
+10. [Navigate git command pager output with Unix less commands](./10.Navigate_git_command_pager_output_with_Unix_less_commands.md)
+
+11. [View commit history with git log](./11.View_commit_history_with_git_log.md)
+
+12. [Format commit history with git log arguments](./12.Format_commit_history_with_git_log_arguments.md)
+
+13. [Format commit history with git log arguments 2](./13.Format_commit_history_with_git_log_arguments_2.md)
+
 Will add the other ones
 
 Feel free to contribute, add things and correct me!
